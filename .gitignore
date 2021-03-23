@@ -1,0 +1,5 @@
+#Ignore anything
+*
+#but...
+!.gitignore
+!latex-screenshot.sh
